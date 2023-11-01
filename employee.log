@@ -1,0 +1,18 @@
+INFO:This is an info message
+WARNING:This isawarning message
+ERROR:This is an error message
+CRITICAL:This isacritical message
+INFO:This is an info message
+WARNING:This isawarning message
+ERROR:This is an error message
+CRITICAL:This isacritical message
+06/06/2022 16:58:03-root-DEBUG-This is a debug
+06/06/2022 16:58:03-root-INFO-This is a info
+06/06/2022 16:58:03-root-WARNING-This is a warning
+06/06/2022 16:58:03-root-ERROR-This is a error
+06/06/2022 16:58:03-root-CRITICAL-This is a critical
+06/06/2022 17:26:40-root-DEBUG-This is a debug
+06/06/2022 17:26:40-root-INFO-This is a info
+06/06/2022 17:26:40-root-WARNING-This is a warning
+06/06/2022 17:26:40-root-ERROR-This is a error
+06/06/2022 17:26:40-root-CRITICAL-This is a critical
